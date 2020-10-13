@@ -8,9 +8,8 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <div id="intro-text">
-        <h2>Find your List Collection and Click through to <span className="highlight-color">Explore</span></h2>
-
+      <h2 id="intro-text">Find your List Collection and Click through to <span className="highlight-color">Explore</span></h2>
+      <div className="grow">
         <Lister
           list_name="2020 Christmas Crew"
           list_cover_image="https://image.freepik.com/free-vector/doodle-christmas-holiday-card-with-white-placeholder_78458-256.jpg"

@@ -35,7 +35,7 @@ const List1 = () => {
             list_link:
               "https://www.amazon.com/hz/wishlist/ls/3AQFPHZ352EHU?ref_=wl_share",
             picture_link:
-              "https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/27709684_1716761051678578_1081307003914262743_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=jG8w72WsUYgAX8pzcp_&_nc_ht=scontent-atl3-1.xx&oh=c1474df06c96bad29ac5bd0791b9dcfd&oe=5FA92C12",
+              "https://www.onap.org/wp-content/uploads/sites/20/2017/05/Blank_woman_placeholder.svg_.png",
           },
           {
             name: "Brooke Winings",
