@@ -1,0 +1,30 @@
+#lister-container {
+    display: flex;
+    flex-direction: column;
+    margin: 4rem;
+    padding: 10px;
+    align-items: center;
+    background-color: #6c5ce7;
+    border-radius: 5px;
+    color: white;
+}
+
+#lister-container a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #a29bfe;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#lister-container a:hover {
+    background-color: #fd79a8;
+}
+
+@media only screen and (max-width: 680px) {
+    #lister-container img {
+        width: 150px;
+    }
+  }

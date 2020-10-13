@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#person_container {
+    display: flex;
+    flex-direction: column;
+    margin: 4rem;
+    padding: 10px;
+    align-items: center;
+    background-color: #6c5ce7;
+    border-radius: 5px;
+    color: white;
+}
+
+#person_container img {
+    border-radius: 50%;
+}
+
+.grow {
+    transition: all .3s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+#person_container h2 {
+  font-family: 'Pacifico', cursive;
+  font-weight: 200;
+}
+
+#person_container a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: #a29bfe;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#person_container a:hover {
+    background-color: #fd79a8;
+}
