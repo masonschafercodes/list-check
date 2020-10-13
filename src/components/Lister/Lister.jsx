@@ -5,7 +5,7 @@ const Lister = (props) => {
     return (
         <div id="lister-container">
             <img src={props.list_cover_image} alt="cover" width="300px" />
-            <a href="/list1"><h3>{props.list_name}</h3></a>
+            <a href={props.uri}><h3>{props.list_name}</h3></a>
         </div>
     );
 }
