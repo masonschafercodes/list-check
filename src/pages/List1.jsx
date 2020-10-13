@@ -51,6 +51,13 @@ const List1 = () => {
             picture_link:
               "https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/120890622_3472306806141314_3476134829471141951_o.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_ohc=uFKQAQgVNlkAX8ZE6Up&_nc_ht=scontent-atl3-1.xx&oh=13874035e761d695e9c713b406397821&oe=5FAC556A",
           },
+          {
+            name: "Caitlyn",
+            list_link:
+              "https://www.amazon.com/hz/wishlist/ls/9RUHF2AYJ82?ref_=wl_share",
+            picture_link:
+              "https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/62123773_2692359804112266_9062719957673967616_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=GmV-NzGnYB0AX_ZKTyV&_nc_ht=scontent-atl3-1.xx&oh=eb46d44d9523519d41985df9d7cdfe2e&oe=5FAB77AA",
+          },
         ]}
       />
       </>
